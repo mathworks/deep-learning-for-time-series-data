@@ -1,0 +1,2 @@
+# deep-learning-for-time-series-data
+ The examples showcase two ways of using deep learning for classifying time-series data, i.e. ECG data. The first way is using continuous wavelet transform and transfer learning, whereas the second way is using Wavelet Scattering and LSTMs. The explanations of the code are in Chinese. The used data set can be download on：https://github.com/mathworks/physionet_ECG_data/

@@ -10,3 +10,6 @@ ECGWaveletScatteringWithLSTMs_cn.mlx: ECG Classification using Wavelet Scatterin
 PrepareSignalData_cn.mlx: Prepare Signal Data for ECG Classification with Continuous Wavelet Transform;
 
 training.mp4: the video shows the training process of ECG Classification with Continuous Wavelet Transform.
+
+# The video series (in Chinese) on this topic can be found as follows:
+https://www.mathworks.com/videos/series/deep-learning-for-time-series-data.html
